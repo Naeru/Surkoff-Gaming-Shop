@@ -46,6 +46,13 @@ body {
   width: 1200px;
   height: 250px;
   background-color: #f3f1f2;
+  background-color: #f3f1f2;
+  border-left-style: solid;
+  border-left-color: #a7a7a7;
+  border-left-width: 1px;
+  border-right-style: solid;
+  border-right-color: #a7a7a7;
+  border-right-width: 1px;
 }
 
 .slider {
